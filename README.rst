@@ -1,4 +1,4 @@
-Jenkins 
+Jenkins
 =======
 
 1. Uruchom jenkins-a:
@@ -21,3 +21,7 @@ Related
 -------
 
 - https://github.com/sheehan/job-dsl-gradle-example
+
+
+Next steps
+----------
